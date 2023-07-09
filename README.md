@@ -1,2 +1,2 @@
 # Amazon-Clone
-Developed a fully functional Amazon clone with comprehensive features, including product search, cart management, and user authentication
+Designed and developed a complete replica of Amazon, utilizing HTML and CSS to develop a functional platform. Implemented essential features such as user-friendly product search, effortless cart management, and secure user authentication, delivering a comprehensive online shopping experience.
